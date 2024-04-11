@@ -21,4 +21,10 @@ Create EC2 instance to install Airbyte.
 
 
 
+### End of part one : Extracting the data from the two sources (AWS RDS Postgres - AWS S3 bucket)  and storing it in Snowflake data warehouse. 
+<img width="1273" alt="Screenshot 1445-10-02 at 10 36 25 AM" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/528f0d23-1fc4-48b0-80b7-68b91774b2c0">
+
+
+
+
 
