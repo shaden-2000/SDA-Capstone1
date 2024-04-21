@@ -12,13 +12,13 @@ def lambda_handler(event, context):
     local_file_path = '/tmp/inventory.csv'
     
     # Snowflake connection parameters
-    account = 'ia24654.ap-south-1'   
+    account = '****'   
     warehouse = 'COMPUTE_WH'
     database = 'TPCDS'
     schema = 'RAW'
     table = 'inventory'
-    user = 'SHADENALI'
-    password = 'Asd5350183'
+    user = '****'
+    password = '****'
     role='accountadmin'
     stage_name = 'inv_Stage'
 
