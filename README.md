@@ -11,13 +11,26 @@
 ### Part One: Data Ingestion
 ![ae_sda_di](https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/2551b1f2-9b02-49e1-ab71-0ff12d4d5124)
 
-#### 1- AWS S3 bucket
-create an AWS Lambda that contains the python script using AWS ECR Docker container image to make connection between the s3 bucket and Snowflake data warehouse. 
+#### Source 1 - AWS RDS Postgres
+
+1- Airbyte was installed on EC2 instance and run using docker
+2- Make a connection between source ( AWS RDS Postgres) and destination ( Snowflake ) 
+
+![connector](https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/76e0103d-4cb2-4251-9999-166357c8f6c1)
+
+#### Source 2 - csv file AWS S3 bucket
+
+- Python code was written in lambda function to do :
+
+1- Downloads the CSV file 
+2- Connect to snowflake 
+3- Upload the file to snowflake staging area 
+4- Copy the file from snowflake staging area 
+Into a table
 
 
 
-#### 2-Postgres database on AWS RDS
-Create EC2 instance to install Airbyte.
+
 
 
 
