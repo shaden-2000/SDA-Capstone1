@@ -13,8 +13,8 @@
 
 #### Source 1 - AWS RDS Postgres
 
-1- Airbyte was installed on EC2 instance and run using docker
-2- Make a connection between source ( AWS RDS Postgres) and destination ( Snowflake ) 
+1. Airbyte was installed on EC2 instance and run using docker
+2. Make a connection between source ( AWS RDS Postgres) and destination ( Snowflake ) 
 
 ![connector](https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/76e0103d-4cb2-4251-9999-166357c8f6c1)
 
