@@ -65,10 +65,13 @@ Into a table
 
 
 ### Part three : Data analyzation
+<img width="1512" alt="Screenshot 1445-12-08 at 5 27 05 AM" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/916407b5-ea2e-4ba6-a103-a76f2b78e95f">
 
 
-<img width="267" alt="image" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/87b264b2-ff82-4168-a645-e6b3fcbf656a">
+<img width="1512" alt="Screenshot 1445-12-08 at 5 27 26 AM" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/44a4f4d0-d258-4dc6-9102-015db3e954e3">
 
 
-<img width="267" alt="image" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/8ca6506f-fd84-46f5-bddc-3178d27bd42d">
+
+
+
 
