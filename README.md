@@ -66,6 +66,9 @@ Into a table
 
 ### Part three : Data analyzation
 
-- you can check the Metabase report folder 
 
-<img width="1110" alt="Screenshot 1445-10-14 at 5 46 03 PM" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/3cceecc6-e960-482f-b996-16cf687a41c8">
+<img width="267" alt="image" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/87b264b2-ff82-4168-a645-e6b3fcbf656a">
+
+
+<img width="267" alt="image" src="https://github.com/shaden-2000/SDA-Capstone1/assets/100734021/8ca6506f-fd84-46f5-bddc-3178d27bd42d">
+
